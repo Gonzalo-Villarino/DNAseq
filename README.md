@@ -6,6 +6,6 @@
 ############################################################## 
 ##### Run 1 chromosome at the time
 ############################################################## 
-#### $perl cal.readscount.pl BW_atxr56_8C chr.size.txt  1 30427671
 
+#### $perl cal.readscount.pl BW_atxr56_8C chr.size.txt  1 30427671
 #### $perl cal.readscount.pl BW_atxr56_8C chr.size.txt  2 1969828
