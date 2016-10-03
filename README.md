@@ -1,0 +1,2 @@
+## DNAseq
+### first run 
