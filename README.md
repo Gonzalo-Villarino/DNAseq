@@ -1,4 +1,5 @@
 ## DNAseq
+### used uniqly mapped redads allowing 2 mismatches with Bowtie (-m 1 -n 2)
 ### usage: perl run.script.pl input_sam_file  (makes table count for all the chromosomes for 1 sample)
 ### $perl run.script.pl BW_atxr56_8C
 
